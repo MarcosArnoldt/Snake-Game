@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Snake",
+            "request": "launch",
+            "mainClass": "snake.Snake",
+            "projectName": "RunnerOne"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Snake",
+            "request": "launch",
+            "mainClass": "Snake",
+            "projectName": "RunnerOne"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunnerOne",
+            "request": "launch",
+            "mainClass": "Snake",
+            "projectName": "RunnerOne"
+        }
+    ]
+}
